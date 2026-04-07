@@ -26,13 +26,13 @@ function Footer() {
           </div>
           <div className="col-md-3 mb-3">
             <h6>Contact</h6>
-            <p>📍 Main Market, Waknaghat, HP</p>
-            <p>📞 +91 98160-55001</p>
-            <p>✉️ hello@freshmart.in</p>
+            <p>📍 Jaypee University of Information Technology,Waknaghat, HP</p>
+            <p>📞 +91 90450-92332</p>
+            <p>✉️ freshmartisup@gmail.com</p>
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2026 FreshMart. All rights reserved. Built with 💚</p>
+          <p>© 2026 FreshMart. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -50,18 +50,15 @@ A full-stack smart grocery store web application built with **React**, **Node.js
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page]
 (<img width="1916" height="1076" alt="image" src="https://github.com/user-attachments/assets/1c40bdd1-8cc2-48f7-89da-f36224682a7f" />)
 (<img width="1918" height="938" alt="image" src="https://github.com/user-attachments/assets/05652dc9-e7e0-4850-9cc8-9baec12623bb" />)
 
 ### Product Catalog
-![Products]
 (<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/05b1336d-ece1-48ed-a52d-48f7cdf9db21" />)
 
 
 ### Store Locator
-![Stores]
-(<img width="1918" height="1078" alt="image" src="htt     ps://github.com/user-attachments/assets/9a9bc966-741d-4629-a10d-d3ea6659e92d" />)
+(<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9a9bc966-741d-4629-a10d-d3ea6659e92d" />)
 
 ---
 
